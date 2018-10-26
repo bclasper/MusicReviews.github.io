@@ -1,0 +1,203 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10;
+    border: 1px solid black;
+    overflow: hidden;
+    background-color: #2775f4;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+li {
+    display: inline;
+}
+
+article {
+    float: right;
+    padding: 10px;
+    width: 71.5%;
+    background-color: #d1f5ff;
+    border: 1px solid black;
+    height: 370px;
+    text-align: center;
+}
+
+.image1 {
+    display: block;
+    margin-right: auto;
+    width: 45%;
+    float: left;
+}
+
+sidebar {
+  float: left;
+  padding: 10px;
+  width: 25%;
+  background-color: #d1f5ff;
+  border: 1px solid black;
+  height: 572px;
+  text-align: center;
+}
+
+bottombar {
+    float: right;
+    padding: 10px;
+    width: 71.5%;
+    background-color: #d1f5ff;
+    border: 1px solid black;
+    height: 180px;
+    text-align: center;
+}
+
+.image5 {
+    float: left;
+    display: block;
+    margin-left: 4rem;
+  }
+
+.link-1 {
+  margin-left: 8rem;
+}
+
+main {
+  float: right;
+  padding: 10px;
+  width: 50%;
+  background-color: #d1f5ff;
+  border: 1px solid black;
+  height: 520px;
+  text-align: center;
+}
+
+section#sidebar2 {
+  float: left;
+  padding: 10px;
+  width: 46.5%;
+  background-color: #d1f5ff;
+  border: 1px solid black;
+  height: 520px;
+  text-align: center;
+}
+
+.image7 {
+  float: left;
+
+}
+
+header{
+  background-color: #d1f5ff;
+  border: 1px solid black;
+  text-align: center;
+  height: 65px;
+}
+
+.title1 {
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+underated {
+  float: right;
+  padding: 10px;
+  width: 98.4%;
+  background-color: #d1f5ff;
+  border: 1px solid black;
+  height: 370px;
+  text-align: center;
+}
+
+songlist {
+  float: right;
+  padding: 10px;
+  width: 98.4%;
+  background-color: #d1f5ff;
+  border: 1px solid black;
+  height: 180px;
+  text-align: center;
+}
+
+aboutus {
+  float: right;
+  padding: 10px;
+  width: 98.4%;
+  background-color: #d1f5ff;
+  border: 1px solid black;
+  height: 572px;
+  text-align: center;
+}
+
+.mrlogo {
+  float: left;
+  padding: 25px;
+}
+
+.newmusic-article {
+  width: 100%;
+  text-align: left;
+}
+
+.about-section {
+  align: right;
+  padding: 25px;
+  line-height: 3em;
+}
+
+.underated-artists {
+  float: left;
+  display: block;
+  margin-left: 8srem;
+  padding: 5px
+}
+
+.underated-people {
+  width: 45%;
+  float: left;
+}
+
+.paragraph {
+  text-align: left;
+}
+
+.all-reviews {
+  float: left;
+  display: block;
+  margin-left: 8rem;
+  padding: 20px
+}
+
+.all-articles {
+  float: right;
+  padding: 10px;
+  width: 98.4%;
+  background-color: #d1f5ff;
+  border: 1px solid black;
+  height: 572px;
+}
+
+.all-articles-title {
+  text-align: center;
+}
+
+.underated-pics {
+  float: left;
+  display: block;
+  margin-left: 8rem;
+}
